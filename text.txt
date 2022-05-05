@@ -6,6 +6,11 @@ html
 css
 javascript
 
+backend languages
+c
+python 
+php
+
 end of file
 
 final copy
